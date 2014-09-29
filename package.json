@@ -1,7 +1,7 @@
 {
   "name": "elasticsearch-hapi-logger",
   "description": "Elastic Search Client Logger for Hapi",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "keywords": [
     "hapi",
